@@ -6,7 +6,9 @@ var messages = [
   "The timeslider is a great way to see previous states of a pad",
   "Hundreds of plugins are available for Etherpad from the Plugin repository",
   "To get mew plugins visit /admin/plugins",
-  "The Etherpad foundation is a not for profit organization that maintains the Etherpad software and it's community"
+  "The Etherpad foundation is a not for profit organization that maintains the Etherpad software and it's community",
+  "Etherpad is free and open source software, you can easily host your own Etherpad server on all major operating systems",
+  "Get your own free Etherpad download at http://etherpad.org"
 ];
 
 var before = "<div class='loading_message'>";
