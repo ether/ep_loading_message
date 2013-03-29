@@ -1,0 +1,9 @@
+.loading_message{
+  width:400px;
+  padding:20px;
+  background-color:lightyellow;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  font-size:14px;
+}

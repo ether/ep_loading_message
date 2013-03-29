@@ -1,0 +1,19 @@
+{
+  "name": "ep_loading_message",
+  "description": "Show a loading helpful message",
+  "version": "0.0.1",
+  "author": {
+    "name": "John McLear",
+    "email": "john@mclear.co.uk",
+    "url": "http://mclear.co.uk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnmclear/ep_loading_message"
+  },
+  "contributors": [],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
