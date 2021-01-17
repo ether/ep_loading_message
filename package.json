@@ -14,7 +14,7 @@
   "contributors": [],
   "dependencies": {},
   "engines": {
-    "node": "*"
+    "node": "10.13.0"
   },
   "funding": {
     "type": "individual",
