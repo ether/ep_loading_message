@@ -1,7 +1,7 @@
 {
   "name": "ep_loading_message",
   "description": "Show a loading helpful message",
-  "version": "0.0.69",
+  "version": "0.0.70",
   "author": {
     "name": "John McLear",
     "email": "john@mclear.co.uk",
